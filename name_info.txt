@@ -6,5 +6,5 @@ name: Ariful Islam
 email: xaitush@virginia.edu
 
 Message from Account B
-Added a message for master
+Another Message from Master to show conflict
 
