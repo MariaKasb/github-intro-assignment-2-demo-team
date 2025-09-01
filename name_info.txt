@@ -2,5 +2,5 @@ name: Ariful tusher account
 email: arifultusher11@gmail.com
 
 
-name" Ariful Islam
+name: Ariful Islam
 email: xaitush@virginia.edu
